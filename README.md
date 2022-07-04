@@ -29,10 +29,10 @@ Home Page:
 
 ![Screenshot 2022-07-05 090230](https://user-images.githubusercontent.com/53118174/177223920-e8304b47-05ca-400d-9ac9-268331148c08.png)
 
-About Me:
+About Me Page:
 
 ![Screenshot 2022-07-05 090339](https://user-images.githubusercontent.com/53118174/177223930-d6488dc2-569a-4385-906a-9ded46e8a23e.png)
 
-Contact Me:
+Contact Me Page:
 
 ![Screenshot 2022-07-05 090420](https://user-images.githubusercontent.com/53118174/177223933-90349028-a264-40be-930d-e56f46c4368c.png)
