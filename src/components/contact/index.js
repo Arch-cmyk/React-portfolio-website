@@ -88,11 +88,11 @@ const Contact = () => {
           <br />
           Australia,
           <br />
-           Malvern East 3145
+           Bundoora, 3083
           <br />
           <br />
           <br />
-          <span>krishna.bollineni23@gmail.com</span>
+          <span>email for reference</span>
         </div>
         <div className="map-wrap">
           <MapContainer center={[44.96366, 19.61045]} zoom={13}>
