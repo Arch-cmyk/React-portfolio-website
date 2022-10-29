@@ -35,4 +35,4 @@ About Me Page:
 
 
 
-###HI, THERE BUDDY! END.###
+### END. ###
